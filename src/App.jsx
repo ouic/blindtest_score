@@ -7,7 +7,7 @@ function Player({ name, score, onIncrement, onDecrement }) {
       <span className="player-name">{name}</span>
       <div className="score-controls">
         <button onClick={onDecrement}>-</button>
-        <span className="score">{score}</span>>
+        <span className="score">{score}</span>
         <button onClick={onIncrement}>+</button>
       </div>
     </div>
