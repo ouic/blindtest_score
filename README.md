@@ -46,6 +46,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 2.  **Ouvrir l'application dans le navigateur** :
     *   Ouvrez votre navigateur web (Chrome, Firefox, Edge, etc.) et entrez l'URL affichée dans l'invite de commandes.
+    *   http://127.0.0.1:5173
     *   L'application "Blindtest - Compteur de points" devrait maintenant être visible et fonctionnelle dans votre navigateur.
 
 ### Utilisation de l'application
