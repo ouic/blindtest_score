@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
+import confetti from 'canvas-confetti';
 
 function Player({ name, score, onIncrement, onDecrement }) {
   return (
@@ -6,7 +7,7 @@ function Player({ name, score, onIncrement, onDecrement }) {
       <span className="player-name">{name}</span>
       <div className="score-controls">
         <button onClick={onDecrement}>-</button>
-        <span className="score">{score}</span>
+        <span className="score">{score}</span>>
         <button onClick={onIncrement}>+</button>
       </div>
     </div>
@@ -49,9 +50,23 @@ function App() {
     setPlayers(resetPlayers);
   };
 
+  const triggerConfetti = () => {
+    confetti({
+      particleCount: 100,
+      spread: 70,
+      origin: { y: 0.6 }
+    });
+  };
+
   const handleShowPodium = () => {
     setShowPodium(!showPodium);
   };
+
+  useEffect(() => {
+    if (showPodium) {
+      triggerConfetti();
+    }
+  }, [showPodium]);
 
   const getPositionText = (index) => {
     return index + 1;
