@@ -61,7 +61,9 @@ function App() {
 
   return (
     <div>
-      <h1 style={{ textAlign: 'center' }}>Blindtest - compteur de points</h1>
+      <h1 style={{ textAlign: 'center' }}>BlindTest</h1>
+      <h1 style={{ textAlign: 'center' }}>compteur de points</h1>
+      <br></br>
       <div className="add-player" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
         <input
           type="text"
