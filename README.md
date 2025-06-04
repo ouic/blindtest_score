@@ -1,6 +1,6 @@
 # Blindtest - Compteur de points
 
-![](src/images/blindtest_score.png)
+![](images/logo.png)
 
 ## Installation et exécution sous Windows
 
@@ -25,7 +25,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 3.  **Naviguer vers le dossier du projet** :
     *   Utilisez la commande `cd` pour naviguer vers le dossier où vous avez téléchargé le code source. Par exemple :
         ```
-        cd C:\Users\VotreNom\Documents\blindtest_score
+        cd C:\Users\VotreNom\Documents\Blindtest
         ```
 
 4.  **Installer les dépendances** :
@@ -46,7 +46,6 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 
 2.  **Ouvrir l'application dans le navigateur** :
     *   Ouvrez votre navigateur web (Chrome, Firefox, Edge, etc.) et entrez l'URL affichée dans l'invite de commandes.
-    *   http://127.0.0.1:5173
     *   L'application "Blindtest - Compteur de points" devrait maintenant être visible et fonctionnelle dans votre navigateur.
 
 ### Utilisation de l'application
