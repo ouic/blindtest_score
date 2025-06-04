@@ -1,5 +1,7 @@
 # Blindtest - Compteur de points
 
+![](src/images/blindtest_score.png)
+
 ## Installation et exécution sous Windows
 
 Ce guide explique comment installer et exécuter l'application "Blindtest - Compteur de points" sur un système Windows.
