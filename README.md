@@ -1,6 +1,6 @@
 # Blindtest - Compteur de points
 
-![](src/images/blindtest_score.png "BlindTest Score App" alt="BlindTest Score App")
+![](src/images/blindtest_score.png "Blindtest Score App")
 
 ## Installation et exécution sous Windows
 
@@ -42,10 +42,11 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
         ```
         npm run dev
         ```
-    *   Cette commande va démarrer un serveur local et afficher une URL dans l'invite de commandes.
+    *   Cette commande va démarrer un serveur local et afficher une URL dans l'invite de commandes (par exemple, `http://localhost:5173/`).
 
 2.  **Ouvrir l'application dans le navigateur** :
-    *   Ouvrez votre navigateur web (Chrome, Firefox, Edge, etc.) et entrez l'URL affichée dans l'invite de commandes :  `http://localhost:5173/`.
+    *   Ouvrez votre navigateur web (Chrome, Firefox, Edge, etc.) et entrez l'URL affichée dans l'invite de commandes.
+    *   http://127.0.0.1:5173
     *   L'application "Blindtest - Compteur de points" devrait maintenant être visible et fonctionnelle dans votre navigateur.
 
 ### Utilisation de l'application
