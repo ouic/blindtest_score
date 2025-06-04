@@ -23,7 +23,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 3.  **Naviguer vers le dossier du projet** :
     *   Utilisez la commande `cd` pour naviguer vers le dossier où vous avez téléchargé le code source. Par exemple :
         ```
-        cd C:\Users\VotreNom\Documents\Blindtest
+        cd C:\Users\VotreNom\Documents\blindtest_score
         ```
 
 4.  **Installer les dépendances** :
