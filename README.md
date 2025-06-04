@@ -1,6 +1,6 @@
 # Blindtest - Compteur de points
 
-![](src/images/blindtest_score.png "Blindtest Score App")
+![](/src/images/blindtest_score.png "Blindtest Score App")
 
 ## Installation et exécution sous Windows
 
