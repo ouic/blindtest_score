@@ -17,7 +17,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
 ### Étapes d'installation
 
 1.  **Télécharger le code source** :
-    *   Téléchargez le code source de l'application dans un dossier de votre choix.
+    *   Téléchargez le code source de l'application dans un dossier de votre choix (dézipper si besoin).
 
 2.  **Ouvrir l'invite de commandes** :
     *   Ouvrez l'invite de commandes (cmd.exe) en recherchant "invite de commandes" dans le menu Démarrer.
@@ -45,8 +45,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur 
     *   Cette commande va démarrer un serveur local et afficher une URL dans l'invite de commandes (par exemple, `http://localhost:5173/`).
 
 2.  **Ouvrir l'application dans le navigateur** :
-    *   Ouvrez votre navigateur web (Chrome, Firefox, Edge, etc.) et entrez l'URL affichée dans l'invite de commandes.
-    *   http://127.0.0.1:5173
+    *   Ouvrez votre navigateur web (Chrome, Firefox, Edge, etc.) et entrez l'URL affichée dans l'invite de commandes : http://127.0.0.1:5173
     *   L'application "Blindtest - Compteur de points" devrait maintenant être visible et fonctionnelle dans votre navigateur.
 
 ### Utilisation de l'application
